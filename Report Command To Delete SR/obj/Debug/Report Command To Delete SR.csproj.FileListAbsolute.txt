@@ -1,0 +1,10 @@
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\bin\Debug\Report Command To Delete SR.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\bin\Debug\Report Command To Delete SR.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\obj\Debug\Report_Command_To_Delete_SR.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\obj\Debug\Report Command To Delete SR.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\obj\Debug\Report Command To Delete SR.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\obj\Debug\Report Command To Delete SR.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\bin\Debug\Report Command To Delete SR.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Report Command To Delete SR\Report Command To Delete SR\obj\Debug\Report Command To Delete SR.csprojResolveAssemblyReference.cache
